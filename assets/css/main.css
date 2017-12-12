@@ -1,0 +1,38 @@
+* {
+  margin:0;
+  padding:0;
+}
+body {
+  background-color:#5AB6A8;
+  font-family: Lobster;
+}
+h1{
+  text-align: center;
+  color:#79564E;
+  font-size: 4vw;
+}
+.circleicons{
+  float:left;
+}
+ul,ol{
+  list-style:none;
+}
+.fa{
+  font-size: 2vw;
+  padding-right: 3%;
+  cursor:pointer;
+  color:#5D413B;
+  padding-bottom: 10px;
+}
+img{
+  width: 70%;
+  border-radius: 5%;
+}
+.rightarrow{
+  display: inline-block;
+}
+.leftarrow{
+}
+.abajo{
+  text-align: center;
+}
